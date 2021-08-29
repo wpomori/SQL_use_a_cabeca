@@ -78,10 +78,10 @@ INSERT INTO meus_contatos
 );
 
 
--- Erro 3: na inserção, todas as colunas e todos os valores se conrresponde conforme tabela criada com exemplo004.sql.
--- Por isso, não haverá erro após a execução do comando abaixo, sendo a mensagem exibida:
---			INSERT 0 1
---			Query returned successfully in 91 msec.
+-- Erro 3: na inserção, todas as colunas e todos os valores se corresponde conforme tabela criada com exemplo004.sql.
+-- No etnato, entre os valores a serem inseridos nas colunas profissao e local não há vírgula, sendo a mensagem de erro exibida:
+--			ERROR:  INSERT has more target columns than expressions
+--			LINE 12:  procura
 INSERT INTO meus_contatos
 (
 	sobrenome,
@@ -102,7 +102,7 @@ INSERT INTO meus_contatos
 	'jill_anderson@breakneckpizza.com',
 	'F',
 	'05-09-1980',
-	'Escritora Técnica',
+	'Escritora Técnica'
 	'Palo Alto, CA',
 	'Solteira',
 	'Caiaque, Répteis',
