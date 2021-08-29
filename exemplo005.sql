@@ -1,7 +1,7 @@
 -- Esta é uma linha de comentário em SQL
 -- Este script está sendo construído em POSTGRESQL
 
--- Comando de inserção de dados na tabela meus_contatos, conforme descrito na página 33 do livro Use a Cabeça SQL
+-- Comando de inserção de dados na tabela meus_contatos, conforme descrito na página 35 do livro Use a Cabeça SQL
 -- A tabela meus_contatos CORRETA (com a coluna sexo) foi criada com o script exemplo003.sql
 -- Com o script exemplo004.sql, foi inserido dados na tabela meus_contatos
 -- Verificando colunas tabela meus_contatos
