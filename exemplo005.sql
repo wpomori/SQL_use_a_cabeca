@@ -110,7 +110,7 @@ INSERT INTO meus_contatos
 );
 
 
--- Erro 4: na inserção, todos os campos e vaores a serem inseridos são correspondentes.
+-- Erro 4: na inserção, todos os campos e valores a serem inseridos são correspondentes.
 -- As colunas são as esperadas após criação com script exemplo004.sql.
 -- No entanto, o valor a ser adicionado na última coluna não teve a áspas de fechamento da string a ser inserida.
 -- Por isso, o erro do comando abaixo será:
