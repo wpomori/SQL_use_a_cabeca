@@ -3,6 +3,12 @@ Neste exemplo de comandos SQL, sigo os comandos básicos que constam no livro Us
 Os comandos aqui construídos foram feitos no pgADMIN 4, versão 5.6.  
 
 
+## Como instalar PostgreSQL no Ubuntu  
+https://www.fullstackpython.com/blog/postgresql-python-3-psycopg2-ubuntu-1604.html  
+
+## Como instalar o pgADMIN 4 versão 5.6 no Ubuntu  
+https://www.pgadmin.org/download/  
+
 ## Padrão de commit  
 git commit -m 'Exemplo 001: como criar um banco de dados em PostgreSQL'  
 
