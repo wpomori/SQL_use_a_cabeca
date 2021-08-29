@@ -20,6 +20,7 @@ CREATE TABLE meus_contatos
 
 -- Ao executar o comando CREATE TABLE acima, você obterá um erro, pois aqui a tabela criado no exemplo002.sql ainda existia
 -- Para isso, como a tabela está vazia, podemos apagá-la e gerar ela novamente com o comando CREATE TABLE acima
+-- Cuidado com o comando DROP TABLE em tabelas que contenham registros ... isso pode ser desastroso para um sistema em produção!!!
 DROP TABLE meus_contatos;
 CREATE TABLE meus_contatos
 (
