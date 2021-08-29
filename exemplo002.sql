@@ -4,7 +4,7 @@
 -- Comando de criação de tabela lista_donut na página 20 do livro Use a Cabeça SQL
 CREATE TABLE meus_contatos
 (
-	sobre_nome VARCHAR(30),
+	sobrenome VARCHAR(30),
 	primeiro_nome VARCHAR(20),
 	email VARCHAR(50),
 	aniversario DATE,
