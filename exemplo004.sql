@@ -13,7 +13,7 @@ FROM
 WHERE
         TABLE_NAME = 'meus_contatos';
 
--- Inserindo dados na tabela meus_contatos. A ORDEM ENTRE COLUNAS E NOVOS VALORES IMPORTA.
+-- Inserindo dados na tabela meus_contatos. A ORDEM ENTRE COLUNAS E NOVOS VALORES IMPORTA, por isso cuidado.
 INSERT INTO meus_contatos
 (
 	sobrenome,
