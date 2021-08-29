@@ -16,7 +16,7 @@ WHERE
 -- Inserindo dados na tabela meus_contatos. A ORDEM ENTRE COLUNAS E NOVOS VALORES IMPORTA.
 INSERT INTO meus_contatos
 (
-	sobre_nome,
+	sobrenome,
 	primeiro_nome,
 	email,
 	sexo,
@@ -36,7 +36,7 @@ INSERT INTO meus_contatos
 	'05/09/1980',
 	'Escritora Técnica',
 	'Palo Alto, CA',
-	'Solteiro',
+	'Solteira',
 	'Caiaque, Répteis',
 	'Relacionamentos, Amigos'
 );
