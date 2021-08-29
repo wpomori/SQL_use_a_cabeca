@@ -1,7 +1,7 @@
 -- Esta é uma linha de comentário em SQL
 -- Este script está sendo construído em POSTGRESQL
 
--- Comando de criação de tabela lista_donut na página 26 do livro Use a Cabeça SQL
+-- Comando de criação de tabela lista_donut na página 28-29 do livro Use a Cabeça SQL
 -- Quando criamos a tabela meus_contatos com o script exemplo002.sql, vimos que faltou criar a coluna sexo
 -- A ideia é concertar este erro ... será que vai funcionar com o uso do comando CREATE TABLE?
 CREATE TABLE meus_contatos
