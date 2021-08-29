@@ -6,7 +6,7 @@
 -- A ideia é concertar este erro ... será que vai funcionar com o uso do comando CREATE TABLE?
 CREATE TABLE meus_contatos
 (
-	sobre_nome VARCHAR(30),
+	sobrenome VARCHAR(30),
 	primeiro_nome VARCHAR(20),
 	email VARCHAR(50),
 	sexo CHAR(1),
@@ -24,7 +24,7 @@ CREATE TABLE meus_contatos
 DROP TABLE meus_contatos;
 CREATE TABLE meus_contatos
 (
-	sobre_nome VARCHAR(30),
+	sobrenome VARCHAR(30),
 	primeiro_nome VARCHAR(20),
 	email VARCHAR(50),
 	sexo CHAR(1),
