@@ -24,3 +24,4 @@ FROM
 	information_schema.COLUMNS
 WHERE
 	TABLE_NAME = 'meus_contatos';
+
